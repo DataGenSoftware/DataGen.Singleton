@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DataGen.Singleton</id>
+    <version>1.0.1</version>
+    <title>DataGen.Singleton Singleton Design Pattern Template</title>
+    <authors>Karol Habczyk</authors>
+    <owners>Karol Habczyk</owners>
+    <licenseUrl>https://github.com/DataGenSoftware/DataGen.Singleton/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://www.datagen.pl</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Generic template for implementing Singleton Design Pattern.</description>
+    <summary>Generic template for implementing Singleton Design Pattern.</summary>
+    <tags>.net library template generic singleton design pattrn</tags>
+    <copyright>Copyright © Karol Habczyk</copyright>
+    <dependencies>
+      <group>
+        <dependency id="DataGen.Extensions" version="1.7.3" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\DataGen.Singleton\bin\Release\net35\DataGen.Singleton.dll" target="lib\net35\DataGen.Singleton.dll" />
+    <file src="..\DataGen.Singleton\bin\Release\net40\DataGen.Singleton.dll" target="lib\net40\DataGen.Singleton.dll" />
+    <file src="..\DataGen.Singleton\bin\Release\net45\DataGen.Singleton.dll" target="lib\net45\DataGen.Singleton.dll" />
+    <file src="..\DataGen.Singleton\bin\Release\net46\DataGen.Singleton.dll" target="lib\net46\DataGen.Singleton.dll" />
+  </files>
+</package>
