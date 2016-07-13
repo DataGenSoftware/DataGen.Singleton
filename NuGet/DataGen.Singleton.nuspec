@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Generic template for implementing Singleton Design Pattern.</description>
     <summary>Generic template for implementing Singleton Design Pattern.</summary>
-    <tags>.net library template generic singleton design pattrn</tags>
+    <tags>.net library template generic singleton design pattern</tags>
     <copyright>Copyright © Karol Habczyk</copyright>
     <dependencies>
       <group>

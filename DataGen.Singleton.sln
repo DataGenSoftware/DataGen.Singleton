@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGet", "NuGet", "{CB7F948F
 		NuGet\DataGen.Singleton.nuspec = NuGet\DataGen.Singleton.nuspec
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenSingleton.NuGetTest", "DataGenSingleton.NuGetTest\DataGenSingleton.NuGetTest.csproj", "{E3E61FF6-ECF5-4F9C-8FB6-B43A2AFA9FDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{7E4015B9-71E9-4DFE-9ECA-9AF9ECBE1097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E4015B9-71E9-4DFE-9ECA-9AF9ECBE1097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E4015B9-71E9-4DFE-9ECA-9AF9ECBE1097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E61FF6-ECF5-4F9C-8FB6-B43A2AFA9FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E61FF6-ECF5-4F9C-8FB6-B43A2AFA9FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E61FF6-ECF5-4F9C-8FB6-B43A2AFA9FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E61FF6-ECF5-4F9C-8FB6-B43A2AFA9FDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
